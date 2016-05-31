@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AA781AC30D6B3A08A67B7F6C62C3C92DDE031888",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AA781AC30D6B3A08A67B7F6C62C3C92DDE031888" : 0,
+    "D349A03E3355B5A47380E196AE230B9D5B86E495" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "74FCFB02-22E4-4996-8400-539C7D8DAF52",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AA781AC30D6B3A08A67B7F6C62C3C92DDE031888" : "DropBoxSignIn2\/",
+    "D349A03E3355B5A47380E196AE230B9D5B86E495" : "DropBoxSignIn2\/DropBoxSignIn2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DropBoxSignIn2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DropBoxSignIn2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/buctik\/DropBoxSignIn2wGif.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA781AC30D6B3A08A67B7F6C62C3C92DDE031888"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/buctik\/DropBoxSignIn2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D349A03E3355B5A47380E196AE230B9D5B86E495"
+    }
+  ]
+}
